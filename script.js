@@ -1,6 +1,6 @@
 let expenses = [];
 let editingId = null;
-
+//
 const form = document.getElementById("expense-form");
 const list = document.getElementById("expense-list");
 const totalAmountEl = document.getElementById("total-amount");
